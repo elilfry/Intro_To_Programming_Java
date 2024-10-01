@@ -36,7 +36,7 @@ In this task, the focus was on image manipulation. The program allows reading an
 
 File: `Ex2.java`
 
-See Full Description `מטלה 2 - עדכון סופי.pdf`
+See Full Description at `מטלה 2 - עדכון סופי.pdf`
 
 ---
 
@@ -62,7 +62,7 @@ In this exercise, we explored iterative and recursive number processing techniqu
 
 File: `EX1.java`
 
-See Full Description at file link to `Ex1.pdf`
+See Full Description at  `Ex1.pdf`
 
 ---
 
